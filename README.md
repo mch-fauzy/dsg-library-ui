@@ -46,7 +46,7 @@ npm run dev
 ```
 The app will be available at:
 - **Local**: [http://localhost:5173](http://localhost:5173)
-- **Online**: [https://dsg-library-ui.vercel.app](https://dsg-library-ui.vercel.app)`
+- **Online**: [https://dsg-library-ui.vercel.app](https://dsg-library-ui.vercel.app)
 
 ### Build for Production
 ```sh
