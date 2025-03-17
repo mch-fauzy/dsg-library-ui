@@ -1,0 +1,15 @@
+{
+  "extends": "./node_modules/gts/tsconfig-google.json",
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  "compilerOptions": {
+    "rootDir": ".",
+    "outDir": "dist",
+  },
+  "exclude": [
+    "build"
+  ]
+}
